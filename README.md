@@ -4,7 +4,7 @@
 
 > Working hard.
 
-🇨🇳 China Shenzhen・🕹Web developer
+🇨🇳 China Shenzhen・🕹 Web developer
 
 https://pigjian.com
 https://unie.fun
