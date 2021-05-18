@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-🇨🇳 China Shenzhen・🕹 Web developer
+🇨🇳 China Shenzhen・🕹 Web Developer
 
 https://pigjian.com
 <br/>
