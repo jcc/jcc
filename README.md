@@ -1,17 +1,6 @@
 ### Hello 👋
 
-<a target="_blank" href="#JIAJIAN-CHAN">
-  <img align="left" title="微信号-Jian" alt="coco1s" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
-</a>
-<a href="#601360343">
-  <img align="left" title="QQ-601360343" alt="601360343" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
-</a>
-<a target="_blank" href="https://github.com/jcc">
-  <img align="left" title="Github" alt="jcc" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
-</a>
-
-<br/>
-<br/>
+I'm Jiajian Chan.
 
 🇨🇳 China Shenzhen・🕹 Web Developer
 
