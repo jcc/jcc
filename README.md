@@ -4,8 +4,8 @@ I'm Jiajian Chan.
 
 🇨🇳 China Shenzhen・🕹 Web Developer
 
-https://pigjian.com
+<a href="https://pigjian.com" rel="nofollow" style="color:#4BA9F9">https://pigjian.com</a>
 <br/>
-https://unie.fun
+<a href="https://unie.fun" rel="nofollow" style="color:#4BA9F9">https://unie.fun</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jcc&count_private=true&show_icons=true&&bg_color=30,42b3ff,cb1597&title_color=fff&text_color=fff&icon_color=fff&&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jcc&count_private=true&show_icons=true&bg_color=30,4BA9F9,d4e8f9&title_color=fff&text_color=fff&icon_color=fff&hide_title=true" />
