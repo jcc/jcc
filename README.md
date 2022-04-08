@@ -2,7 +2,7 @@
 
 I'm Jiajian Chan.
 
-🇨🇳 China Shenzhen・🕹 Web Developer
+🕹 Web Developer
 
 <a href="https://pigjian.com" rel="nofollow" style="color:#4BA9F9">https://pigjian.com</a>
 <br/>
