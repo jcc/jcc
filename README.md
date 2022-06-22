@@ -9,5 +9,3 @@ I'm Jiajian Chan.
 <a href="https://unie.fun" rel="nofollow" style="color:#4BA9F9">https://unie.fun</a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jcc&count_private=true&show_icons=true&bg_color=30,67A2A2,95eded&title_color=fff&text_color=fff&icon_color=fff&hide_title=true" />
-
-<img src="https://profile-counter.glitch.me/jcc/count.svg">
